@@ -28,7 +28,7 @@ namespace RayTracer
         {
             
             List<Sphere> l_sphere = new List<Sphere>();
-            l_sphere.Add(new Sphere(200, 200, -190, 100, Color.Blue));
+            l_sphere.Add(new Sphere(200, 200, -200, 100, Color.Blue));
             l_sphere.Add(new Sphere(380, 200, -200, 100, Color.Yellow));
             l_sphere.Add(new Sphere(290, 350, -200, 100, Color.Red));
             Bitmap bg = Draw.newImage(cutebox.Width, cutebox.Height, l_sphere);
