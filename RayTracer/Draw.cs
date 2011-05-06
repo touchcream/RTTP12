@@ -30,11 +30,8 @@ namespace RayTracer
                     {
                         temp = 1.0f / (float)Math.Sqrt(temp);
                         normal = temp * normal;
-                        float lambert = r.Direction * normal;
-                        float red = currentSphere.color.R * lambert;
-                        float green = currentSphere.color.G * lambert;
-                        float blue = currentSphere.color.B * lambert;
-                        //image.SetPixel(x, y, Color.FromArgb((int)red, (int)green, (int)blue));
+                        if(normal.z == -r.Direction.z)
+                            Console.WriteLine("normal");
                         image.SetPixel(x, y, Color.FromArgb(((int)(currentSphere.color.R * (currentSphere.z - inter.z)) / currentSphere.rayon), (int)((currentSphere.color.G * (currentSphere.z - inter.z)) / currentSphere.rayon), (int)((currentSphere.color.B * (currentSphere.z - inter.z)) / currentSphere.rayon)));
                     }
                 }
