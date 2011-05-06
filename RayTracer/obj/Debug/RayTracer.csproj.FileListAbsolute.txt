@@ -1,0 +1,8 @@
+C:\Users\touchcream\Desktop\RayTracer\RayTracer\bin\Debug\RayTracer.exe
+C:\Users\touchcream\Desktop\RayTracer\RayTracer\bin\Debug\RayTracer.pdb
+C:\Users\touchcream\Desktop\RayTracer\RayTracer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\touchcream\Desktop\RayTracer\RayTracer\obj\Debug\RayTracer.Form1.resources
+C:\Users\touchcream\Desktop\RayTracer\RayTracer\obj\Debug\RayTracer.Properties.Resources.resources
+C:\Users\touchcream\Desktop\RayTracer\RayTracer\obj\Debug\RayTracer.csproj.GenerateResource.Cache
+C:\Users\touchcream\Desktop\RayTracer\RayTracer\obj\Debug\RayTracer.exe
+C:\Users\touchcream\Desktop\RayTracer\RayTracer\obj\Debug\RayTracer.pdb
