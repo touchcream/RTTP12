@@ -8,7 +8,7 @@ namespace RayTracer
 {
     class Draw
     {
-        //Louis est un con
+        //Arthur est con
         public static Bitmap newImage(int width, int height, List<Sphere> l_sphere)
         {
             Bitmap image = new Bitmap(width, height);
