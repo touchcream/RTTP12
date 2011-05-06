@@ -6,3 +6,5 @@ C:\Users\touchcream\Desktop\RayTracer\RayTracer\obj\Debug\RayTracer.Properties.R
 C:\Users\touchcream\Desktop\RayTracer\RayTracer\obj\Debug\RayTracer.csproj.GenerateResource.Cache
 C:\Users\touchcream\Desktop\RayTracer\RayTracer\obj\Debug\RayTracer.exe
 C:\Users\touchcream\Desktop\RayTracer\RayTracer\obj\Debug\RayTracer.pdb
+C:\Users\Louis\Desktop\RTTP12\RayTracer\obj\Debug\RayTracer.exe
+C:\Users\Louis\Desktop\RTTP12\RayTracer\obj\Debug\RayTracer.pdb
