@@ -8,7 +8,7 @@ namespace RayTracer
 {
     class Draw
     {
-        //Arthur est con
+        //test
         public static Bitmap newImage(int width, int height, List<Sphere> l_sphere)
         {
             Bitmap image = new Bitmap(width, height);
